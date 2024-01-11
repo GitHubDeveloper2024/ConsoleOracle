@@ -1,0 +1,15 @@
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\bin\Debug\ConsoleOracle.exe.config
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\bin\Debug\ConsoleOracle.exe
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\bin\Debug\ConsoleOracle.pdb
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\bin\Debug\MDBOCBusinessLogic.dll
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\bin\Debug\MDDBCDataAccess.dll
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\bin\Debug\MDDTOEntities.dll
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\bin\Debug\EncriptacionMartin.dll
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\bin\Debug\MDDTOEntities.pdb
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\obj\Debug\ConsoleOracle.csproj.AssemblyReference.cache
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\obj\Debug\ConsoleOracle.csproj.SuggestedBindingRedirects.cache
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\obj\Debug\ConsoleOracle.csproj.CoreCompileInputs.cache
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\obj\Debug\ConsoleOracle.csproj.CopyComplete
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\obj\Debug\ConsoleOracle.exe
+C:\Users\RP\source\repos\ConsoleOracle\ConsoleOracle\obj\Debug\ConsoleOracle.pdb
